@@ -136,10 +136,10 @@ Para crear tu primer repositorio en Github deberas:
 
 #### 7. Ligas (Hipervinculos)
 
-Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[ \]
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[ \],inmediatamente despues pondremos la liga 
 
 **EJEMPLO:**
-Mi buscador favorito es: [Google].
+Mi buscador favorito es: [Google].(https://www.google.com).
 
 
 
