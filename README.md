@@ -124,14 +124,22 @@ Si en nuestra documentacion necesitamos incluir informacion en modo de lista,un 
 Para crear tu primer repositorio en Github deberas:
 1. Contar con cyuenta de GitHub.
 2. Dar click en el boton: **Nuevo Reepositorio*
-3. Asignar un Nombre a tu repositorio, por ejemplo: *practica03-3b*
+3. Asignar un Nombre a tu repositorio, por ejemplo: *Practica03-3b*
 4. Asignar un nivel de privacidad entre
    - ***Publico:** Si quieres que este dispónible para todos los usuarios.
    - **Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
   
-10. Definir si incluye un archivo de descripcion llamado : *READNE.md*
+10. Definir si incluye un archivo de descripcion llamado : *README.md*
 50. Definir sis habra exclusiones de archivo a traves del archivo: *.gitignore*
-3. Guardar cambios. 
+3. Guardar cambios.
+
+
+#### 7. Ligas (Hipervinculos)
+
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[ \]
+
+**EJEMPLO:**
+Mi buscador favorito es:[ ]
 
 
 
