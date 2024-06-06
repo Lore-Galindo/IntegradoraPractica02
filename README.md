@@ -86,9 +86,9 @@ Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Te
 ##### Subrayado (UNDERLINE)
 Algunas veces necesitarenos subraya textos dentro de la documentacion,para ello ,si bien markdown no tiene un atajo o codificacion rapida podemos utilizar el estilo que usa el estandar de HTML usando y cerrando con /</ins>.
 EJEMPLO:
-Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto *Texto cursivo* Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
-Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Subrayado</ins> Texto.
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto *Texto cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Subrayado</ins> Texto.
 
 
 
