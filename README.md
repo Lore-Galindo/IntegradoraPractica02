@@ -100,7 +100,23 @@ Estos documentos son utilizados para resaltar instrucciones especificas para la 
 Para listar las carpetas y archivos en desde una terminal de sistemas operativos Windows debemos ingresar el comando:
 
 > C:/dir
+Despues oprimimos la tecla "Enter".
+Tambien podemos ingresar textos multilinea
+ **EJEMPLO:**
+> Aqui se ingresan un conjjuntoi de instrucciones
+> para explicar al usuario, como intalar el
+> software que hemos diseñado
+Y si deseamos incluir viñetas para enlistar pasos podemos usar el caracter
+ - dentro del texto a documentar.
 
+   **EJEMPLO:**
+  **pasos para instalar la base de Datos**
+
+>- Descargar MySQL server del Sitio Oficial
+>- Instalar el sistema gestor de base de datos, definiendo el puerto y contraseña para el usuario ***root***
+>- descargamos el archivo de respaldo de la base de datos (.sql)
+>- Restauramos la base de datos usando el comandpo *mysql *
+>> C:/Program Files/MYSQL/MYSQL Server 8.0/bin/mysql -u root -p password \< respaldo.sql
 
 
 
