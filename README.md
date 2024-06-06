@@ -22,5 +22,42 @@ Si desea marcar una separación más visual de contenidos podemos utilizarlos in
 EJEMPLO
 ---
 *Esto es similar a un tag de < HR > en HTML. 
+### 3.Párrafos (PARAGRAPHS)
+Son utilizados para presentar grandes secciones de texto que describen detalladamente las secciones de ladocumentación del proyecto. 
+
+EJEMPLO:
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1
+Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1 Este texto pertenece al párrafo 1
+Este texto pertenece al párrafo 1
+
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+Este texto pertenece al párrafo 2 Este texto pertenece al párrafo 2
+
+Lo que en una página utilizariamos usando la etiqueta < P >.
+
+También podemos aplicar estilos básicos de alineación:
+
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto Este párrafo esta alineado a la izq por defecto
+Este párrafo esta alineado a la izq por defecto
+
+<p align="right">
+Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion.
+Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion. Este párrafo esta alineado a la derecha utilizando la propiedad de alineacion.
+</p>
+
+<p align="center">
+Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion. Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion. Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo esta centrado usando la propiedad de alineacion. 
+</p>
+
+<p align="justify">
+Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.
+</p>
 
 
