@@ -59,5 +59,31 @@ Este párrafo esta centrado usando la propiedad de alineacion.  Este párrafo es
 <p align="justify">
 Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación. Este párrafo estará justificado utilizando la propiedad de alineación.
 </p>
+### 4. Texto Enfatizado (BOLD, ITALIC, BOLD/ITALIC)
+
+Si el texto que debemos enfatizar se encuentra de un párrafo, podemos utilizar algunos trucos para ubicarlos en la documentación.
+##### Texto en Negrita (BOLD)
+Para poder poner el texto en negrita, este deberá ser encerrado entre doble **.
+
+EJEMPLO:
+Texto Texto Texto Texto Texto Texto Texto **Texto** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+##### Texto en Cursiva (ITALIC)
+Para poder poner el texto en cursiva, este deberá ser encerrado entre * o -.
+EJEMPLO:
+
+Texto Texto Texto Texto Texto Texto Texto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+##### Texto en Negrita/Cursiva (BOLD/ITALIC)
+Para poder poner el texto en negrita/cursiva, este deberá ser encerrado entre triple ***.
+
+
+
+EJEMPLO:
+
+
+Texto Texto Texto Texto Texto Texto Texto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+
+
 
 
