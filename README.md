@@ -140,6 +140,13 @@ Las ligas son utilizadas para vincular elementos o referencias del proyecto dent
 
 **EJEMPLO:**
 Mi buscador favorito es: [Google].(https://www.google.com).
+pero si deseamos poner solo las ligas directas o un correo electronico podemos utilizar los simbolos \< \> 
+
+**EJEMPLO**
+Documentacion creada por : ***Lorena Citlalli Galindo Gonzalez***
+<230598@utxicotepec.edu.mx>
+
+
 
 
 
