@@ -90,6 +90,16 @@ Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Te
 Texto Texto Texto Texto *Texto cursivo* Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins>Texto Subrayado</ins> Texto.
 
+# integradora-Practica03
+continuamos con los comandos basicos de Git y Github para el maquetado de la documentacion
+
+### 5. Cuadros para codigos o reseñas (BLOCKQUOTES)
+Estos documentos son utilizados para resaltar instrucciones especificas para la instalacion,configuracion y/o inicializacion o mostrar seccciones de codigo fuente.Se maqueta iniciando el texto con un simbolo de mayor que (>)
+
+**EJEMPLO:** 
+Para listar las carpetas y archivos en desde una terminal de sistemas operativos Windows debemos ingresar el comando:
+
+> C:/dir
 
 
 
