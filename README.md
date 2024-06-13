@@ -225,7 +225,7 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusio
  
 
  ##EJEMPLO##
- !](Gato)
+ ![](GARR.jpg)
 
  
 
