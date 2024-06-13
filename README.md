@@ -219,6 +219,14 @@ Dado que en el ejemplo pasado usando solo markdown no se puede realizar la fusio
 
  </table>
 
+ #### 9. Imágenes
+
+ Si la documentacion requiere de incorporar imágenes, esquemas , modelos, fotografias, o cualquier representación gráfica, utilizaremos la estructura de las ligas, maquetanto el nombre de la imagen entre corchetes con un signo de admiracion de cierre y la liga de referrencia a la imagen usando parentesis.
+ 
+
+ ##EJEMPLO##
+ !](Gato)
+
  
 
 
