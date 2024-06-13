@@ -1,4 +1,4 @@
-# IntegradoraPractica02
+fr# IntegradoraPractica02
 En está práctica aprenderemos autilizar las herramientas Git y GitHub para el control de versiones,documentación, Desarrollo Colaborativo y Respaldo del Proyecto Integrador para la Asignatura de Integradora I
 
 ## Comandos Básicos para la documentación, utilizando el estandar de Markdown (md)
@@ -146,6 +146,7 @@ pero si deseamos poner solo las ligas directas o un correo electronico podemos u
 Documentacion creada por : ***Lorena Citlalli Galindo Gonzalez***
 <230598@utxicotepec.edu.mx>
 
+![](IMG-20240612-WA0015.jpg)
 
 
 
